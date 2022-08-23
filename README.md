@@ -1,2 +1,2 @@
 # java
-this repository is directed to java poo exercises
+this repository is directed to java poo exercises to school
