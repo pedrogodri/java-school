@@ -1,5 +1,5 @@
-# java
-this repository is directed to java poo exercises to school
+# java school
+
 ```
-Hello
+This repository is directed to java poo exercises to school
 ```
